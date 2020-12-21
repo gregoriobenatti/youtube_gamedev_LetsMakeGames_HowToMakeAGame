@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Directories
+2DEngine/2DEngine/Debug
+2DEngine/2DEngine/x64
